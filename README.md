@@ -12,9 +12,9 @@
 Após a máquina subir, para se conectar ao MySQL, use os dados:
  - endereço: 10.80.4.10
  - usuário: petclinic
- - senha: petclinic
+ - senha: myprecious
 
-Ou use o comando: `mysql -u petclinic -p -h 10.80.4.10`
+Ou use o comando e insira a senha "myprecious": `mysql -u petclinic -p -h 10.80.4.10`
 
 ## Desligar, destruir e iniciar vm:
  - desligar: `vagrant halt`
